@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class MediatorMenu : MonoBehaviour
 {
+    [SerializeField] AnimationText _animationText;
     [SerializeField] MenuItems _menuItems;
     [SerializeField] MenuEditorials _menuEditorials;
     [SerializeField] MenuInfo _menuInfo;
@@ -11,6 +12,7 @@ public class MediatorMenu : MonoBehaviour
 
     private void Awake()
     {
+        _animationText.Configure(this);
         _menuEditorials.Configure(this);
         _menuItems.Configure(this);
         _menuInfo.Configure(this);
