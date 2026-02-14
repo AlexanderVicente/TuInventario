@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33445f932b8ac2a45ba0f5afa9aade17, type: 3}
+  m_Name: Otros
+  m_EditorClassIdentifier: 
+  editorial: Otros
+  iconEditorial: {fileID: 7193451911200395988, guid: efc23491f10c8c142a48afec2900751c, type: 3}
+  comics:
+  - name: 'Super Mario: Todo empezo con Mario'
+    image: {fileID: 7343610022233859277, guid: e8303ce557bf18f4fb18ec30f2d14462, type: 3}
+  - name: Ilustres Ignorantes
+    image: {fileID: 8107915809951664293, guid: 4dab93c9ff0758c46b8fbf0a39013361, type: 3}
+  - name: 'Tomb Raider: En tiempo de brujas'
+    image: {fileID: -2948077094438468729, guid: dd9441ad3aa10314fa5921370780716b, type: 3}
+  - name: 1984
+    image: {fileID: 3945716092142109893, guid: 870b46500dd3fa844a39450017bf2792, type: 3}
+  - name: 'Metal Gear Solid: El legado de Big Boss'
+    image: {fileID: -3754133393909410592, guid: 86cc8e2d816e01e4eba7901868b9c6a3, type: 3}
+  - name: Hierba
+    image: {fileID: 6240650512766050167, guid: e8c67f2a57f605f49996c5bd72a57bfb, type: 3}
+  - name: La espera
+    image: {fileID: 8892715968198019240, guid: 955135e89eb0b964995d5d6db0c84262, type: 3}
+  - name: 300
+    image: {fileID: -1290827595376743533, guid: 1dae4ff445818cc49ad3167bb76a1dd0, type: 3}
+  - name: "Dr\xE1cula"
+    image: {fileID: 7325020496033074171, guid: 4ac48999c217384449ab8bc0f9456942, type: 3}
+  - name: "El invitado de Dr\xE1cula"
+    image: {fileID: -2389934962808061631, guid: 00afe81eafc06ee458f7d7f0bad78971, type: 3}
+  - name: La caja azul 1
+    image: {fileID: -2210903547652104326, guid: f1bebda4eb841244182c4c26f21eb6d5, type: 3}

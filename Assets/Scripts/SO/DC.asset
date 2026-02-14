@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33445f932b8ac2a45ba0f5afa9aade17, type: 3}
+  m_Name: DC
+  m_EditorClassIdentifier: 
+  editorial: DC
+  iconEditorial: {fileID: 3303377771132391943, guid: d967ec3d19c63dd4ca580215bbd2bab9, type: 3}
+  comics:
+  - name: 'Joker: Las mejores historias'
+    image: {fileID: 2746443006756912891, guid: 79ec0dfc47c4d0441aed2271b769e577, type: 3}
+  - name: 'Harley Quinn: Calor en la ciudad'
+    image: {fileID: 5117010144933339889, guid: 12513e446231dc24d9c2c9d78a604f45, type: 3}
+  - name: 'Harley Quinn: Morir riendo'
+    image: {fileID: -3228881122357504959, guid: b01a4c967f0573a47943ec28660bd9e2, type: 3}
+  - name: 'Watchmen: Los vigilantes Parte 1'
+    image: {fileID: -8936400775436685130, guid: 9308dc26ed0087f42b09230d427a07f2, type: 3}
+  - name: 'Batman: Yo soy Gotham'
+    image: {fileID: 6868660056236983553, guid: 257dab6184d04ae4685e6de240e7cfaf, type: 3}
+  - name: 'El regreso del caballero oscuro: La ultima cruzada'
+    image: {fileID: -1440839590411661737, guid: e5261f1f566c2234596fa925b743e04c, type: 3}
+  - name: 'Batman Lobo: Integral'
+    image: {fileID: -4039091172081524349, guid: 8c01468d0fcd07942aefb3838c57b85a, type: 3}
+  - name: 'Pinguino: Batman Arkham'
+    image: {fileID: 1840905063752910307, guid: 6a072197a27aa7749bfe288bf00ec3aa, type: 3}
+  - name: 'Batman: La broma asesina'
+    image: {fileID: 7204834820040358761, guid: 7ce49673cd066d64492d2cc06688c534, type: 3}
+  - name: "Batman: A\xF1o uno"
+    image: {fileID: 6944455242039916579, guid: 93244d1af5b59454086a03f4ecf0b0af, type: 3}
+  - name: Joker
+    image: {fileID: 6421856297837412101, guid: 9a68380ec184f0140bad3fd3b8222c54, type: 3}
+  - name: 'Batman: Caballero Blanco'
+    image: {fileID: -138505980084014756, guid: a50d2b88849aced49807f97fc4fbe91d, type: 3}
+  - name: 'Superman: Hijo rojo'
+    image: {fileID: 4989244259679157137, guid: 2e6887078a5007d4b95f4ed7b08f462d, type: 3}
+  - name: El Batman que rie
+    image: {fileID: 8227197748420535713, guid: 3cb02a0e8a2e8ea49937fe5f91875483, type: 3}
+  - name: 'Watchmen: Obra completa'
+    image: {fileID: -7852523807677994067, guid: b6e8deca86540b94ba849ed63e77816a, type: 3}
+  - name: "Superman: Por el ma\xF1ana"
+    image: {fileID: 409541454871380849, guid: 6e1e550da9961394ea252d8dd29c30ad, type: 3}
+  - name: 'Batman: Victoria oscura'
+    image: {fileID: 4728980090727390433, guid: 84baa80a49702c34bac4f5945a5f05ba, type: 3}
+  - name: 'Batman: El largo halloween'
+    image: {fileID: 1323020299715883674, guid: 93a49a5d6ad9f6249a2d171f92bed333, type: 3}
+  - name: 'Superman: Clasicos del comic'
+    image: {fileID: 3646332398774402793, guid: 27b3c4db8ad32ce4ba817d88cf6869d3, type: 3}
+  - name: 'Batman: Noches oscuras metal'
+    image: {fileID: 1047239709524007858, guid: ab9a8235a97bed64085d2047fa813e57, type: 3}
+  - name: 'DCSos: La infeccion'
+    image: {fileID: 6091996588230152457, guid: d6f21bccdaea09646a74467721c5e707, type: 3}
+  - name: 'Batman: Tres Jokers'
+    image: {fileID: 2813530432838674213, guid: 1acc55a3cbb02cb4f942871e9129111a, type: 3}
+  - name: 'Batman: Silencio'
+    image: {fileID: 8204777087651660330, guid: efb91ef9dfcc5d445a532007939b4ac9, type: 3}
+  - name: 'Batman: Una muerte en la familia'
+    image: {fileID: -3135555683566370203, guid: befd60a771c895a419d3302e427d0d06, type: 3}
+  - name: "Injustice: Gods among us A\xF1o Uno"
+    image: {fileID: 5808991271097866033, guid: 45ef2682a4e9e5e44b7eb898a29961c6, type: 3}
+  - name: 'Harley Quinn: Cristales rotos'
+    image: {fileID: -2706341415946815272, guid: 09ef6b42be8d82840885402dfe887133, type: 3}
+  - name: 'Harley Quinn: Especial 30 aniversario'
+    image: {fileID: -1033086792166112588, guid: f7e19bfa4876daa44bd234fb88500e0b, type: 3}
+  - name: 'Batman: Amor loco'
+    image: {fileID: 6078631862730968015, guid: 3bb61b558dfc03a4398943f179a54ab9, type: 3}
+  - name: "Batman: La sombra del murci\xE9lago"
+    image: {fileID: -6806257309073361852, guid: c25b81dec38a60440a797a457c3d2a4b, type: 3}
+  - name: 'Superman: Las mejores historias'
+    image: {fileID: -6003628471601753604, guid: 80c82d70155750d47845854ccd44e1bb, type: 3}
+  - name: 'Lex Luthor: El hombre de acero'
+    image: {fileID: -9150691233763240486, guid: 5342facb2dc5e7342ae06892336fa891, type: 3}
+  - name: Harleen
+    image: {fileID: -9016383145875179239, guid: eaec6c4b1f23eed439f749e2f6628ed4, type: 3}
+  - name: "Cr\xF3nica visual definitiva"
+    image: {fileID: 3544894786637175624, guid: c3cb559759a0d3144840a7817434d523, type: 3}
+  - name: "Batman: El \xFAltimo caballero de la tierra"
+    image: {fileID: -7129791339954963654, guid: 531d0be766b14f54c9192c392aa10527, type: 3}

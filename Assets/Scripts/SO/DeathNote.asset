@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33445f932b8ac2a45ba0f5afa9aade17, type: 3}
+  m_Name: DeathNote
+  m_EditorClassIdentifier: 
+  editorial: Death Note
+  iconEditorial: {fileID: 7193451911200395988, guid: efc23491f10c8c142a48afec2900751c, type: 3}
+  comics:
+  - name: 1
+    image: {fileID: 8251525018882175067, guid: 2d786f03d86799246909596ea4a078d0, type: 3}
+  - name: 2
+    image: {fileID: 3123356515695995467, guid: ca8f1aa8e4191644eb06550992d96340, type: 3}
+  - name: 3
+    image: {fileID: -2961761012239841561, guid: 839b860cd085ebf40b17fbc25d7b47e9, type: 3}
+  - name: 4
+    image: {fileID: 6456621207109974496, guid: 3da699e088c64af47bd4ee1bee7ae4af, type: 3}
+  - name: 8
+    image: {fileID: -7229874477983099375, guid: 5b580f5496e8325459573cb3cb7b5a21, type: 3}

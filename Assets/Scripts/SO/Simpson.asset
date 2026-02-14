@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33445f932b8ac2a45ba0f5afa9aade17, type: 3}
+  m_Name: Simpson
+  m_EditorClassIdentifier: 
+  editorial: Simpson
+  iconEditorial: {fileID: 7193451911200395988, guid: efc23491f10c8c142a48afec2900751c, type: 3}
+  comics:
+  - name: El sancionador acecha
+    image: {fileID: -7895843321420801768, guid: 7f4ce0e09bcc8794ab843fed1eba6125, type: 3}
+  - name: Asombroso y gigantesco Homer
+    image: {fileID: -1788744073471123334, guid: 10d5f1d80df9495458dc9c4486f3113b, type: 3}
+  - name: El mayor oh del mundo
+    image: {fileID: 7457534517183535362, guid: b88acffb931feae47bcf4de3f024e458, type: 3}
+  - name: El falsificador de portadas
+    image: {fileID: -7458243431094260657, guid: e942ef9e03387b241929e83197935a45, type: 3}
+  - name: Guia para la vida
+    image: {fileID: 6486769058095146987, guid: c69796e1d447415438240133d4374868, type: 3}
+  - name: Detras de los Simpson
+    image: {fileID: -1849700381656527598, guid: e06c0796e0e96b94a86dad0ecd1a92cf, type: 3}
+  - name: Guia completa
+    image: {fileID: 7415047710344058430, guid: 8cb3996bb7bdd674b9615e8260750922, type: 3}
+  - name: Por siempre
+    image: {fileID: -3510883892174366271, guid: d70cc6108fd573f4089a04e377428929, type: 3}
+  - name: Guia de Springfield
+    image: {fileID: 7545147530426387318, guid: 21e1736e6ab331144a4fc4528e2c0e1c, type: 3}

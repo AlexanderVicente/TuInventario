@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33445f932b8ac2a45ba0f5afa9aade17, type: 3}
+  m_Name: PeliculasDisney
+  m_EditorClassIdentifier: 
+  editorial: Peliculas Disney
+  iconEditorial: {fileID: 7193451911200395988, guid: efc23491f10c8c142a48afec2900751c, type: 3}
+  comics:
+  - name: 9
+    image: {fileID: -3414996095211855688, guid: c7806c2aa3be87b4fbb33e837dc175ea, type: 3}
+  - name: 11
+    image: {fileID: -2260890513153481152, guid: f83b5adc174915042b394bce589d00f4, type: 3}

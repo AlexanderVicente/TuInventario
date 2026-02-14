@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33445f932b8ac2a45ba0f5afa9aade17, type: 3}
+  m_Name: MuertosVivientes
+  m_EditorClassIdentifier: 
+  editorial: Muertos Vivientes
+  iconEditorial: {fileID: 7193451911200395988, guid: efc23491f10c8c142a48afec2900751c, type: 3}
+  comics:
+  - name: 1 - Dias Pasados
+    image: {fileID: -3326120649229022749, guid: 15a550f4d837db74da8941cfbb217b4a, type: 3}
+  - name: 2 - Muchos kms a las espaldas
+    image: {fileID: -5096330670240626383, guid: 653724a15d6505940a456926788ed31b, type: 3}
+  - name: 3 - Seguridad tras los barrotes
+    image: {fileID: 3626040807772837083, guid: 5df2bcb56e98c0a408b5735a3b335732, type: 3}
+  - name: 4 - Lo que mas anhelas
+    image: {fileID: 7582850640130658737, guid: e703a73c97ca0da4295b6c81a47210d8, type: 3}
+  - name: 5 - La mejor defensa
+    image: {fileID: 6906424156545913878, guid: 354071d7f4f7d0e46b3b1bd4341064ed, type: 3}
+  - name: 12 - Vivir entre ellos
+    image: {fileID: -5533947964038215983, guid: 1528e4ad1e54d4f4ea91c4e65369e802, type: 3}
+  - name: 13 - Demasiado lejos
+    image: {fileID: 7924761797723413752, guid: ea6c6c1e0b45eda4bbefe6bb36802544, type: 3}
+  - name: 14 - Sin salida
+    image: {fileID: -8043831926221686970, guid: b55b4c6f1f2a7884e88a117709084390, type: 3}

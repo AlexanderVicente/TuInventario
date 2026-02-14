@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33445f932b8ac2a45ba0f5afa9aade17, type: 3}
+  m_Name: Marvel
+  m_EditorClassIdentifier: 
+  editorial: Marvel
+  iconEditorial: {fileID: 7193451911200395988, guid: efc23491f10c8c142a48afec2900751c, type: 3}
+  comics:
+  - name: Capitan America 1 - Otro Tiempo
+    image: {fileID: -6274052873412363230, guid: 859aeaab6ec961349954ddcd4d605d15, type: 3}
+  - name: Capitan America 2 - El Soldado de Invierno
+    image: {fileID: 5609297940176591343, guid: 82b3c490aa72be6489b4ee1e2908175c, type: 3}
+  - name: Capitan America 3 - Amenaza Roja
+    image: {fileID: -7158816157774002138, guid: 4ccaa65515cee564498d469731334d15, type: 3}
+  - name: Capitan America - La muerte del capitan America
+    image: {fileID: -1363383771837426819, guid: f58a6f136cc24194c960e65143dca476, type: 3}
+  - name: 'Lobezno: Origen'
+    image: {fileID: -6154443515933828285, guid: 5c3f51d1fdb91a54e83ac04c7b138962, type: 3}
+  - name: 'Los 4 Fantasticos: El lobo a las puertas'
+    image: {fileID: -7071914503928637696, guid: cb33fc0d8bbf4fe4991c50242cceca78, type: 3}
+  - name: 'La Patrulla X: La Saga de Fenix Oscura'
+    image: {fileID: 7176428683884897041, guid: 20a62631e3e1ddb4691c3cd6ac393f3e, type: 3}
+  - name: 'Nick Furia: Agente de Shield'
+    image: {fileID: -2244786521419668318, guid: 293da481fc9c3da42aa2a6ed809c6663, type: 3}
+  - name: 'MS Marvel: Fuera de lo normal'
+    image: {fileID: -4663439468960141057, guid: b8ebeef8835d3824a912ce60426c0199, type: 3}
+  - name: 'Daredevil: El hombre sin miedo'
+    image: {fileID: -897050837837614277, guid: a1a98fe0e234aa14eb7e875b08c998c5, type: 3}
+  - name: 'Thor vs Hulk: Campeones del universo'
+    image: {fileID: -497370331231597532, guid: 4812aefca8dfa1b4da71f831b13855e8, type: 3}
+  - name: "Doctor Extra\xF1o 1 - El camino de lo oculto"
+    image: {fileID: -6182141300148839122, guid: afec37d410ad8b0418ea0138666ccb75, type: 3}
+  - name: "Doctor Extra\xF1o 2 - Los ultimos dias de la magia"
+    image: {fileID: 2912817190353421578, guid: 1c50f413908470049bbd59bee45c283e, type: 3}
+  - name: El Guantelete del Infinito
+    image: {fileID: -1154001349065230082, guid: 7a76a7306c05c4b4d91cb55c1818e320, type: 3}
+  - name: 'Spiderman: Toda una vida'
+    image: {fileID: 2525182658231718506, guid: 401c664397879554b9ab14ef4847edb8, type: 3}
+  - name: 'Spiderman: Poder y Responsabilidad'
+    image: {fileID: -8767258290690459614, guid: 71938fed7a706884abb76daf1a268c8c, type: 3}
+  - name: 'Ironman: El renacimiento'
+    image: {fileID: 5130028714280241555, guid: ba4a9fc31dd1b8541a460e0367c35e54, type: 3}
+  - name: 'Ironman: El heroe Interior'
+    image: {fileID: 8166195276179961877, guid: 925b7c969f6373a44855c84b4d1ae1cb, type: 3}
+  - name: 'Ironman: El demonio en una botella'
+    image: {fileID: -2214859110854935617, guid: 65ddbd6b779b7cd478f950f1f41f5cab, type: 3}
+  - name: 'Ironman: A merced de mis amigos'
+    image: {fileID: 2925781617718702644, guid: 64ce60dee1e90944ea294779528393bf, type: 3}
+  - name: Spiderman 1
+    image: {fileID: -429423471851886212, guid: 558cfdfba72cd4d43b8b0cdea40a53d1, type: 3}
+  - name: 'Ant-Man: Epidemia zombie'
+    image: {fileID: -1518957601380470944, guid: 026b6725bc253df4d92f079ea7ffcffa, type: 3}
+  - name: Ironman 3 La novela
+    image: {fileID: 8643091415847003852, guid: 3a49b2e4dda474243ba30baccd6b4b56, type: 3}
+  - name: 'Spiderman: las nuevas aventuras'
+    image: {fileID: 2825871760847385757, guid: 550652cec2aa9964b81159392b546f99, type: 3}
+  - name: 'El Castigador: Pesadilla'
+    image: {fileID: -7294075979455212748, guid: 7359ecd14d5c26641a19258dcb5a24d8, type: 3}
+  - name: 'Motorista Fanstasma: Autopista al Infierno'
+    image: {fileID: 2807495647916404087, guid: e8e886befb4e7734d81f2a5fac275c8b, type: 3}
+  - name: "Doctor Extra\xF1o: Principio y Fin"
+    image: {fileID: -3718619673447050270, guid: ef59fde1298db574da9fc40eaa3961b3, type: 3}
+  - name: 'Thanos: Los hermanos del infinito'
+    image: {fileID: 2730692699781465030, guid: e7c4b27537e565e43941f5e034b55f57, type: 3}
+  - name: 'Thanos: El conflicto del infinito'
+    image: {fileID: 6245430474216186254, guid: bb59e325379d5b24eb29f4ada52b3362, type: 3}
+  - name: 'Thanos: El fin del infinito'
+    image: {fileID: -603861885538924791, guid: 6f85f7748c1c2294b8e96e40adbbc1e0, type: 3}
+  - name: 'Thor: Vikingos'
+    image: {fileID: 683007025608598730, guid: 4e5cfba462ff73c4d9f51ca01645040d, type: 3}
+  - name: 'Ironman: Vivir o morir en los Angeles'
+    image: {fileID: -58091017555852019, guid: 144eca0868ea7fa46b85493c21cc62af, type: 3}
+  - name: 'Viuda Negra: Las cosas que dicen de ella'
+    image: {fileID: 3765468886233245165, guid: 180c9956d3e6a5e45b560a353401a4c7, type: 3}
+  - name: 'Lobezno: El regreso de la nativa'
+    image: {fileID: 4655797214237776138, guid: b661c9a4da270b145b552b0ff2676a23, type: 3}
+  - name: 'Thanos: El dios que nos escucha'
+    image: {fileID: 6912698277968336883, guid: 74fa5e95419ca1a4ab009158d67d5dc0, type: 3}
+  - name: 'Masacre: El regreso del Masacre viviente'
+    image: {fileID: -7922325533405604895, guid: 1645345f9bc5c4c42a0519689e683445, type: 3}
+  - name: "Hulk: \xBFHombre o monstruo?"
+    image: {fileID: -4216651547531936869, guid: 6b55f2c8de8a5744d8f8e74fb657e875, type: 3}
+  - name: 'Hulk: Este monstruo desatado'
+    image: {fileID: 2347945636018237273, guid: 2cd0006bf8d4531468b6a50a4e6c857d, type: 3}
+  - name: 'Hulk: Holocausto dentro de un atomo'
+    image: {fileID: 1485320201843906241, guid: 14010bc13baadca449bc52569eeccf37, type: 3}
+  - name: "X-Men: La gente del ma\xF1ana"
+    image: {fileID: -7061531555908383870, guid: a79d95a136160a24e8ee84f27bd7c756, type: 3}
+  - name: El Monstruo de Frankenstein 1/2
+    image: {fileID: 3391977220610912391, guid: 1f4d805b119d243479f4636e0ee9db1e, type: 3}
+  - name: "Jessica Jones: \xC1ngulo Muerto"
+    image: {fileID: -7280698126207654828, guid: 275f6ffd939176c4cb1c7858cef252a1, type: 3}
+  - name: Thor un Dios enloquecido
+    image: {fileID: -5854153942140437165, guid: 3a3fe71edc18af148b9f1e13863812c0, type: 3}
+  - name: 'Spiderman: El Monstruo de Frankenstein'
+    image: {fileID: 5966135394867011684, guid: 9eb072b406ddd4a4d99561f91de31ac8, type: 3}
